@@ -3,7 +3,9 @@
 https://github.com/user-attachments/assets/1c0887e0-4c24-494a-b274-32ad125794c6
 
 ## What is this project?
-This project is a locally hosted chatbot using the Meta LLAMA 3.X model, and desigend to run natively on Apple Silicon. It is still a work-in-progress as of February 2025. I made this both as a utility and as an educational experience, to learn more about how to interface with LLMs, as well as utilise Apple's new MLX framework. 
+This project is a locally hosted chatbot using the Meta LLAMA 3.X model, and designed as a utility and as an educational experience, to learn more about how to interface with LLMs, as well as utilise Apple's new MLX framework. 
+
+The UI features a minimalist Matrix-eque text entry and response interface (inspired by the *Hello Neo* scene from the first movie.
 
 ## How do I run it?
 **This app only works on Apple Silicon. I have tested this on an M2 Macbook Pro with 16GB unified memory.**
