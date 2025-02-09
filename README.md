@@ -1,4 +1,7 @@
 # Local MLX Chatbot
+
+https://github.com/user-attachments/assets/1c0887e0-4c24-494a-b274-32ad125794c6
+
 ## What is this project?
 This project is a locally hosted chatbot using the Meta LLAMA 3.X model, and desigend to run natively on Apple Silicon. It is still a work-in-progress as of February 2025. I made this both as a utility and as an educational experience, to learn more about how to interface with LLMs, as well as utilise Apple's new MLX framework. 
 
