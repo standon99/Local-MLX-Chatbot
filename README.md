@@ -15,6 +15,6 @@ The backend.py file spawns the flask app used to process inputs on the local web
 
 I set an automation task to run the Python file on startup for my computer, and created a shortcut in my dock with the icon file provided, so the chatbot was always ready to go!
 
-## COnfig
+
 
 
