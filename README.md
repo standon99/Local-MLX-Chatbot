@@ -10,7 +10,7 @@ The UI features a minimalist Matrix-eque text entry and response interface (insp
 ## How do I run it?
 **This app only works on Apple Silicon. I have tested this on an M2 Macbook Pro with 16GB unified memory.**
 
-Models can be found on HuggingFace [here] (https://huggingface.co/meta-llama). I had success with the Meta LLAMA 2.1 8 billion param model, quantised down to 4-bit. Depending on hardware lower or higher quantisation may work for you (or even more params). You will need to set the checkpoint parameter in the backend.py file to correspond to the localtion you downloaded the model on your machine.
+Models can be found on HuggingFace [here] (https://huggingface.co/meta-llama). I had success with the Meta LLAMA 3.1 8 billion param model, quantised down to 4-bit. Depending on hardware lower or higher quantisation may work for you (or even more params). You will need to set the checkpoint parameter in the backend.py file to correspond to the localtion you downloaded the model on your machine.
 
 The conversation param can also be modified so the LLM has context of your name, or any other information you feel it needs from the get-go.
 
